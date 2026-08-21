@@ -18,3 +18,9 @@
 **Submission:** Written answers
 
 **Answers:**
+
+<img width="1200" height="1600" alt="1" src="https://github.com/user-attachments/assets/f0431da1-b48c-480b-849c-400eb536b7c7" />
+
+<img width="1600" height="1200" alt="2" src="https://github.com/user-attachments/assets/b32ade3b-f571-4eb1-9575-712ac43c29b7" />
+
+
