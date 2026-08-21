@@ -44,3 +44,34 @@
 **Submission:** Written answers
 
 **Answers:**
+
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-21 at 7 33 40 PM" src="https://github.com/user-attachments/assets/dcb91bcc-1493-42cb-90d4-3aa9082f6dcb" />
+
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-21 at 7 33 40 PM (1)" src="https://github.com/user-attachments/assets/55da006e-bc7b-4917-a9d5-7b077aa8879c" />
+
+
+### Assignment 3: Local vs Remote + Flow
+
+**Objective:** Understand the movement of code in Git.
+
+**Tasks:**
+1. Create a comparison table between **Local Repository** and **Remote Repository** with at least 4 points.
+
+2. Draw or write the basic Git flow:
+
+```
+Working Directory → ? → ? → Remote Repository
+```
+
+Fill in the missing stages and the commands used at each step.
+
+3. Answer:
+   - Where does `git add` move the files?
+   - Where does `git commit` save the changes?
+   - Does `git commit` upload code to GitHub? Explain.
+
+**Submission:** Table + Flow + answers
+
+**Answers:**
