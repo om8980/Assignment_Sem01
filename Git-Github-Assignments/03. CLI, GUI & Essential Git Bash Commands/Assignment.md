@@ -46,6 +46,36 @@
 <img width="1125" height="585" alt="Screenshot 2026-08-21 175847" src="https://github.com/user-attachments/assets/1520edfd-a0d1-4818-9a52-e5f4d160f014" />
 
 
+### Assignment 3: Navigation & Listing Commands (Practical)
+
+**Objective:** Practice everyday navigation commands.
+
+**Tasks:**
+1. Open Git Bash and perform the following (write the commands you used):
+   - Check your current location
+   - Go to your home directory
+   - Create a folder named `Day3_Practice`
+   - Move into that folder
+   - Create two files: `file1.txt` and `file2.txt`
+   - List all files
+   - List all files including hidden ones in long format
+   - Move one level up
+   - Come back into `Day3_Practice` folder
+
+2. Write the purpose of these commands:
+   - `pwd`
+   - `cd ~`
+   - `cd ..`
+   - `cd -`
+   - `ls -la`
+
+**Submission:** List of commands used + short answers
+
+**Answers:**
+
+<img width="899" height="1599" alt="3th" src="https://github.com/user-attachments/assets/3f3920ca-7f1b-4182-97e9-5a627645fbbf" />
+
+
 
 
 
