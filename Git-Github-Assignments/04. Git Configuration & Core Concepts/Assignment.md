@@ -75,3 +75,36 @@ Fill in the missing stages and the commands used at each step.
 **Submission:** Table + Flow + answers
 
 **Answers:**
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-21 at 7 57 24 PM" src="https://github.com/user-attachments/assets/41b94100-4b54-4029-9ecc-cf14794e8c58" />
+
+
+
+### Assignment 4: Conceptual Clarity
+
+**Objective:** Test clear understanding of Day 4 concepts.
+
+**Tasks:**
+1. Fill in the blanks:
+   - A ______ is a project folder that also stores the complete history of changes.
+   - By default, every new repository has a branch named ______.
+   - ______ means copying a remote repository to your local computer.
+   - ______ means creating a copy of someone else’s repository under your own GitHub account.
+   - Only ______ files can be committed.
+
+2. Match the following:
+
+| Term            | Meaning                                      |
+|-----------------|----------------------------------------------|
+| Staging Area    |                                              |
+| Commit          |                                              |
+| Clone           |                                              |
+| Fork            |                                              |
+| Remote Repo     |                                              |
+
+3. Write 4 key points you learned in Day 4.
+
+**Submission:** Written answers
+
+**Answers:**
+
