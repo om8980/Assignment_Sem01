@@ -73,6 +73,26 @@
 
 ---
 
+****Answers:****
+
+<img width="1916" height="1000" alt="Screenshot 2026-08-23 112704" src="https://github.com/user-attachments/assets/a31bc8bf-0bcf-4ebc-bf21-a750bc383e35" />
+
+---
+
+<img width="1915" height="1002" alt="Screenshot 2026-08-23 112840" src="https://github.com/user-attachments/assets/aebe6c28-f519-4275-94a8-36db4896dc69" />
+
+---
+
+<img width="1919" height="1001" alt="Screenshot 2026-08-23 112902" src="https://github.com/user-attachments/assets/9392431b-d232-4a97-b24c-f0c60b347941" />
+
+---
+
+<img width="1919" height="904" alt="Screenshot 2026-08-23 112955" src="https://github.com/user-attachments/assets/129968ba-25d1-414d-9c04-e85c1b3040f4" />
+
+
+
+
+
 ### Assignment 4: Command Flow & Movement
 
 **Objective:** Understand how files move in Git.
