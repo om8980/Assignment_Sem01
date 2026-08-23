@@ -90,6 +90,24 @@
 - Screenshot of successful push  
 - Screenshot of the file on GitHub
 
+- **Answers:**
+
+- <img width="1911" height="1012" alt="Screenshot 2026-08-23 174719" src="https://github.com/user-attachments/assets/50aa20bc-4805-4c10-97e3-0e3c494edbc2" />
+
+---
+
+<img width="1908" height="1014" alt="Screenshot 2026-08-23 180516" src="https://github.com/user-attachments/assets/bb0380ec-9b5c-458b-bd6b-5998b2e490e5" />
+
+---
+
+<img width="1910" height="1004" alt="Screenshot 2026-08-23 181030" src="https://github.com/user-attachments/assets/03a89a14-f9cc-40d0-961a-eb919847b8c0" />
+
+
+---
+
+<img width="1409" height="756" alt="Screenshot 2026-08-23 181054" src="https://github.com/user-attachments/assets/5764ab22-fc5b-44a2-865f-cc6c25baf7b8" />
+
+
 ---
 
 ### Assignment 4: Understanding Branching
