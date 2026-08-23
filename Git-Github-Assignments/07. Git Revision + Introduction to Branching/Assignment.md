@@ -123,6 +123,12 @@
 
 **Submission:** Written answers.
 
+**Answers:**
+
+---
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-23 at 7 22 42 PM" src="https://github.com/user-attachments/assets/3e124846-07fc-4454-a363-6977cc7d216c" />
+
 ---
 
 ### Assignment 5: Conceptual + Reflection
@@ -144,3 +150,12 @@
 4. Write 3 key takeaways from today.
 
 **Submission:** Written answers
+
+**Answers:**
+
+---
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-23 at 7 22 42 PM (1)" src="https://github.com/user-attachments/assets/accde908-cabc-462d-934d-8dd841988ce6" />
+
+---
+
