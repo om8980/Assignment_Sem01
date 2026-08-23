@@ -22,6 +22,16 @@
 
 **Submission:** Written answers
 
+****Answers:****
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-23 at 5 34 16 PM" src="https://github.com/user-attachments/assets/7b6258a0-b5aa-4a31-bb1d-4e3951f8d5ae" />
+
+---
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-08-23 at 5 34 15 PM" src="https://github.com/user-attachments/assets/d9fc5ab3-a6a6-4622-a57b-7121f5866ae2" />
+
+
+
 ---
 
 ### Assignment 2: Two Methods to Push Code
@@ -42,6 +52,16 @@
 4. What does the `-u` flag do in `git push -u origin main`?
 
 **Submission:** Written answers
+
+****Answers:****
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-23 at 5 34 14 PM" src="https://github.com/user-attachments/assets/2d989dac-e9ec-4c47-ba1d-d5bc83a4502e" />
+
+---
+
+<img width="1600" height="1200" alt="WhatsApp Image 2026-08-23 at 5 34 14 PM (1)" src="https://github.com/user-attachments/assets/71771886-0610-4cc9-a89c-7b6e2f64f57e" />
+
+
 
 ---
 
