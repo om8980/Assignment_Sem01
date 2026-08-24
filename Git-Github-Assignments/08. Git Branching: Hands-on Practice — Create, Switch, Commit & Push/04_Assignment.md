@@ -19,3 +19,10 @@ ______ → Work → ______ → ______ → Switch to main → ______ → Delete b
 **Submission:** Written answers
 
 ---
+
+**Answers:**
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-24 at 10 20 08 PM" src="https://github.com/user-attachments/assets/3c25a1bd-56b9-4599-afcd-a1f2e760661d" />
+
+---
+
