@@ -23,3 +23,20 @@
 ---
 
 **Answers:**
+
+**PR-Link:**
+
+https://github.com/om8980/day-10-2-As/pull/1
+
+---
+
+<img width="959" height="539" alt="Screenshot 2026-08-26 182132" src="https://github.com/user-attachments/assets/a6d29c32-e62a-48c4-9ea5-29734ec391c1" />
+
+---
+
+
+<img width="716" height="385" alt="Screenshot 2026-08-26 181930" src="https://github.com/user-attachments/assets/fab5298c-12a2-4165-8ca5-9e3d61b0aba8" />
+
+---
+
+
