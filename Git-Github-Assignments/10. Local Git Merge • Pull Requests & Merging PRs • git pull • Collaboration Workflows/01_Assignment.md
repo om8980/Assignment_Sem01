@@ -21,3 +21,13 @@
 ---
 
 **Answers:**
+
+<img width="958" height="538" alt="Screenshot 2026-08-26 180531" src="https://github.com/user-attachments/assets/32f4b297-ea0f-4e7c-b2fa-08059bfd961d" />
+
+---
+
+<img width="718" height="389" alt="Screenshot 2026-08-26 180546" src="https://github.com/user-attachments/assets/f8c9c74c-291d-41e5-b9a4-09badbb08e30" />
+
+---
+
+
