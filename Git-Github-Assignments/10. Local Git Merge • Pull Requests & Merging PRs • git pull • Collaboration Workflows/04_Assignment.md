@@ -15,3 +15,7 @@
 ---
 
 **Answers:**
+
+<img width="956" height="505" alt="Screenshot 2026-08-26 185913" src="https://github.com/user-attachments/assets/9548131b-9aeb-47c0-a21e-6f0221b4c9e5" />
+
+---
