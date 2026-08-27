@@ -33,3 +33,17 @@
 ---
 
 **Answers:**
+
+**Merged_Link**
+
+-https://github.com/om8980/day-11_02-As/pulls?q=is%3Apr+is%3Aclosed
+
+---
+
+<img width="707" height="383" alt="Screenshot 2026-08-27 153136" src="https://github.com/user-attachments/assets/2f7c67b3-0065-450e-ad00-efeacd82b08e" />
+
+---
+
+<img width="713" height="387" alt="Screenshot 2026-08-27 153109" src="https://github.com/user-attachments/assets/3d60119d-7c3c-4ff9-9433-51df7683fde9" />
+
+---
