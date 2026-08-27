@@ -35,3 +35,23 @@
 ---
 
 **Answers:**
+
+**Merged_Link**
+
+-https://github.com/om8980/day-11-As/pull/1
+
+---
+
+<img width="712" height="383" alt="Screenshot 2026-08-27 150240" src="https://github.com/user-attachments/assets/85ff88e2-3ee5-4012-8fa5-6ef2fdc33e0b" />
+
+---
+
+<img width="956" height="500" alt="Screenshot 2026-08-27 150709" src="https://github.com/user-attachments/assets/1d021e9f-6e48-450f-8adb-e0331ba5f946" />
+
+---
+
+<img width="952" height="503" alt="Screenshot 2026-08-27 150804" src="https://github.com/user-attachments/assets/e3ee6154-8b64-46f9-8305-8113c48ca980" />
+
+---
+
+
