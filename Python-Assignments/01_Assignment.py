@@ -177,15 +177,15 @@ print(movie1,"is a",genre1,"movie in",language1,". It was released in",release_y
 # Q.24
 
 name = "Arjun Patel"
-Age = 19
+age = 19
 college_name = "CodingGita"
-Branch = "CS+AI"
-Semester = 1
-City = "Ahemdabad"
-Percentage = 87.5
-Programing_Language = "Python"
+branch = "CS+AI"
+semester = 1
+city = "Ahemdabad"
+percentage = 87.5
+programing_Language = "Python"
 
-print("My name is", name,".", "I am", Age, "Years old and I am studying Computer Science in Semester",Semester, "at", college_name,"in", City, ".", "I scored", Percentage, "percent and my favorite programming language is", Programing_Language, ".")
+print("My name is", name,".", "I am", age, "Years old and I am studying Computer Science in Semester",semester, "at", college_name,"in", city, ".", "I scored", percentage, "percent and my favorite programming language is", programing_Language, ".")
 
 
 # Data Types
