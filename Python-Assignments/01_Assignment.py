@@ -33,10 +33,10 @@ print("Age:", student_age)
 
 # Q.7
 
-Student_Name = "Karan"
+student_Name = "Karan"
 student_name = "Raj"
 
-print("Student 1:", Student_Name)
+print("Student 1:", student_Name)
 print("Student 2:", student_name)
 
 # Q.8
@@ -81,29 +81,29 @@ print("Full Name:", first_name, last_name)
 # Q.13
 
 name = "Rahul Raj"
-Age = 18
-Course = "B.Tech"
-City = "Patna"
+age = 18
+course = "B.Tech"
+city = "Patna"
 
-print("My name is", name,".", "I am", Age, "year old.", "I am studying", Course, "and I live in", City,".")
+print("My name is", name,".", "I am", age, "year old.", "I am studying", course, "and I live in", city,".")
 
 # Q.14
 
 name = "aman kumar"
-Roll_Number = 101
-Branch = "Computer Science"
-Semester = 1
+roll_Number = 101
+branch = "Computer Science"
+semester = 1
 
-print("My name is", name, ".", "My Roll number is", Roll_Number, ".", "I am studying", Branch, "in semester", Semester, ".")
+print("My name is", name, ".", "My Roll number is", roll_Number, ".", "I am studying", branch, "in semester", semester, ".")
 
 # Q.15
 
 name = "priya"
-Age = 19
-Gender = "Female"
-City = "Jaipur"
+age = 19
+gender = "Female"
+city = "Jaipur"
 
-print("My name is", name,".", "i am", Age, "year old.", "I am", Gender, "and i live in", City, ".")
+print("My name is", name,".", "i am", age, "year old.", "I am", gender, "and i live in", city, ".")
 
 # Q.16
 
@@ -406,7 +406,7 @@ print("Age:", age)
 print("Marks:", marks)
 
 print("Name Type:", type(name))
-print("Age Type:", type(Age))
+print("Age Type:", type(age))
 print("Marks Type:", type(marks))
 
 # Q.38
