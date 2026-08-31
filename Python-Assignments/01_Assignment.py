@@ -1,7 +1,3 @@
-**Assignment-01**
-
----
-
 # Q.1
 
 name = "Raju"
