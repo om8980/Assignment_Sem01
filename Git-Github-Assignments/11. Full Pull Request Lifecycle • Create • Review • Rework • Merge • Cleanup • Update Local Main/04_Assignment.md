@@ -12,3 +12,7 @@ Write answer **in your own words** in your notebook:
 ---
 
 **Answers:**
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-01 at 5 48 21 PM" src="https://github.com/user-attachments/assets/659bb6cd-4b18-4d0c-a05a-5ab786f8cdd9" />
+
+---
