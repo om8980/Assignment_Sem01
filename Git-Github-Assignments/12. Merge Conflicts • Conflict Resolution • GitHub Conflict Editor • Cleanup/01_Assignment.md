@@ -30,35 +30,7 @@ My Tasks
    git branch -D feature/tasks-A
    git branch -D feature/tasks-B
    ```
+   ---
 
-**Submit:**
-- Repository link
-- Screenshot of the conflict editor (showing markers)
-- Screenshot of the successfully merged second PR
-- Screenshot of `git log --oneline` after pull
-
----
-
-### Assignment 2 – Explain & Document the Conflict Markers (Mandatory)
-
-**Goal:** Deepen understanding of conflict markers by writing a clear explanation (no new conflict needed).
-
-1. In your notebook, write in your own words:
-   - What a merge conflict is
-   - What each of these markers means:
-     - `<<<<<<<`
-     - `=======`
-     - `>>>>>>>`
-   - What “Current changes” means
-   - What “Incoming changes” means
-   - Three possible ways to resolve a conflict (accept current / accept incoming / write manually)
-   - Why we must delete the conflict markers before finishing
-3. Add one small example of how a conflicted file looks (you can copy the style from the shopping-list example taught in class).
-
-
-**Submit:**
-- Photos of the answers of the above questions.
-
- ---
 
 ## **Answers:**
