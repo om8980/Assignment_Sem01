@@ -15,3 +15,9 @@ Commit and push the file to `main`.
 ---
 
 ## Answers:
+
+---
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-07 at 8 04 58 PM" src="https://github.com/user-attachments/assets/120e6295-e94c-4562-8732-661082050104" />
+
+---
