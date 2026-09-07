@@ -31,3 +31,16 @@
 
 # Answers:
   
+<img width="956" height="506" alt="Screenshot 2026-09-07 212431" src="https://github.com/user-attachments/assets/ce98644e-d1aa-40cd-a750-6bfcbc672c46" />
+
+---
+
+<img width="713" height="385" alt="Screenshot 2026-09-07 214036" src="https://github.com/user-attachments/assets/aa0765f0-810d-4684-a1d8-256f10feefdc" />
+
+---
+
+## Repository Link : 
+
+#### https://github.com/om8980/Day-13-01/tree/main
+
+---
