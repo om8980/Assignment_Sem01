@@ -22,3 +22,14 @@
 ---
 
 ## **Answers:**
+
+---
+
+<img width="1068" height="1599" alt="WhatsApp Image 2026-09-07 at 7 48 07 PM" src="https://github.com/user-attachments/assets/5c867c5c-9fe4-4bf7-a164-e14033d711dd" />
+
+---
+
+<img width="1135" height="1600" alt="WhatsApp Image 2026-09-07 at 7 48 07 PM (1)" src="https://github.com/user-attachments/assets/592b9291-f70b-4d00-bd86-47a1b7b84ee4" />
+
+
+---
