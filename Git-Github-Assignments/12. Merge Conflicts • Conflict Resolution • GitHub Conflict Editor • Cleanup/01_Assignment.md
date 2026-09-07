@@ -34,3 +34,21 @@ My Tasks
 
 
 ## **Answers:**
+
+---
+
+#### Repository link: https://github.com/om8980/day-12-01/pulls?q=is%3Apr+is%3Aclosed
+
+---
+
+<img width="652" height="344" alt="Screenshot 2026-09-07 182020" src="https://github.com/user-attachments/assets/e53b7c9e-c358-4d81-85ac-7b6fd9288c34" />
+
+---
+
+<img width="652" height="343" alt="Screenshot 2026-09-07 181952" src="https://github.com/user-attachments/assets/c0289483-3405-4c57-9b37-75f8dea1d188" />
+
+---
+
+<img width="954" height="503" alt="Screenshot 2026-09-07 182303" src="https://github.com/user-attachments/assets/674094de-3876-48ad-900a-6fee844c07fe" />
+
+---
