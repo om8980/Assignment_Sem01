@@ -44,3 +44,17 @@
 ---
 
 # Answers:
+
+**Links Of Both PR:**   https://github.com/om8980/Day-13-02/pulls
+
+---
+
+<img width="953" height="500" alt="Screenshot 2026-09-08 094111" src="https://github.com/user-attachments/assets/42640a63-3df4-424f-929d-0e6b4fc993d5" />
+
+---
+
+<img width="956" height="440" alt="Screenshot 2026-09-08 095341" src="https://github.com/user-attachments/assets/0c72459b-b75c-409d-8749-e3c7acc083cf" />
+
+---
+
+**Repository Link:** https://github.com/om8980/Day-13-02
