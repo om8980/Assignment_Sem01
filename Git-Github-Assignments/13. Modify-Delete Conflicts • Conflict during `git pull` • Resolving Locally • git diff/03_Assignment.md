@@ -33,3 +33,7 @@ Write answer in your own words in your notebook:
   ---
 
   # Answers:
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-08 at 5 22 35 PM" src="https://github.com/user-attachments/assets/f95484dd-c16c-4222-8068-5f7fe82867f2" />
+
+---
