@@ -32,3 +32,13 @@ git commit -m "Add profile.txt"
 ---
 
 # Answers :
+
+<img width="958" height="500" alt="Screenshot 2026-09-09 125016" src="https://github.com/user-attachments/assets/db9757d7-d6a2-428e-a7ee-72bf33f7e5fd" />
+
+---
+
+<img width="958" height="500" alt="Screenshot 2026-09-09 125016" src="https://github.com/user-attachments/assets/c192a5f0-e763-47f2-8c1c-964e9ba0fa0c" />
+
+---
+
+**Repository Link:**  https://github.com/om8980/Git-restore-command
