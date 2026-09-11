@@ -23,6 +23,8 @@ You are working on a project. Initially you were working alone, so you created l
 
 # Answers:
 
+<img width="957" height="502" alt="Screenshot 2026-09-11 112602" src="https://github.com/user-attachments/assets/c4b6de16-b6e5-4b58-966e-cae87971b59a" />
+
 ---
 
 ### Part B: Annotated Tags
