@@ -105,6 +105,12 @@ Now imagine 2-3 developers have joined your project. From now on, use only **Ann
 
 ---
 
+# Answers:
+
+<img width="718" height="433" alt="Screenshot 2026-09-12 103758" src="https://github.com/user-attachments/assets/414f9f2f-db2f-4693-8595-80084bec5509" />
+
+---
+
 ### Part D: Create GitHub Releases
 
 1. Go to your repository on GitHub.
@@ -122,3 +128,11 @@ Now imagine 2-3 developers have joined your project. From now on, use only **Ann
 ---
 
 # Answers:
+
+<img width="715" height="383" alt="Screenshot 2026-09-12 104904" src="https://github.com/user-attachments/assets/070d9d46-18db-48dc-9e7a-35c486d1e705" />
+
+---
+
+<img width="715" height="385" alt="Screenshot 2026-09-12 104919" src="https://github.com/user-attachments/assets/acc12b2d-5317-4dfa-8131-2140e5eb3d66" />
+
+---
