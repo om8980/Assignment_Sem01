@@ -71,6 +71,16 @@ Now imagine 2-3 developers have joined your project. From now on, use only **Ann
 
 # Answers:
 
+<img width="716" height="422" alt="Screenshot 2026-09-12 102536" src="https://github.com/user-attachments/assets/6809c342-26b9-4d37-ab5f-958aca67cbbe" />
+
+---
+
+<img width="626" height="404" alt="Screenshot 2026-09-12 101836" src="https://github.com/user-attachments/assets/d3d2bd18-e552-419e-8de7-59e4864cb7af" />
+
+---
+
+<img width="716" height="422" alt="Screenshot 2026-09-12 102536" src="https://github.com/user-attachments/assets/835f6310-f982-48f0-9616-c3941c4f55d7" />
+
 ---
 
 ### Part C: Push to GitHub
