@@ -3,14 +3,13 @@ A]
 
 1. Addition `+`
 
-1.
-
 ```javascript
 let oneclass = 15000;
 let secclass = 12500;
 let total = oneclass + secclass
 console.log(total)
 ```
+Ans = 27500
 
 2.
 
@@ -20,6 +19,7 @@ let eveningpage = 25;
 let totalreadingpage = morningpage + eveningpage;
 console.log(totalreadingpage)
 ```
+Ans = 42
 
 3.
 
@@ -29,6 +29,7 @@ let tueselling = 178;
 let totalsoldingitems = monselling + tueselling;
 console.log(totalsoldingitems)
 ```
+Ans = 303
 
 4.
 
@@ -60,16 +61,16 @@ let item1 = 750;
 let item2 = 320;
 let total = item1 + item2;
 let remainingbalance = balance - total
-console.log(total)
-console.log(remainingbalance)
+console.log(total) // 1070
+console.log(remainingbalance) // 930
 ```
 
 10.
 
 ```javascript
-console.log(5 + "5" + 5);
-console.log(5 + 5 + "5");
-console.log("5" + 5 + 5);
+console.log(5 + "5" + 5); // 555
+console.log(5 + 5 + "5"); // 105
+console.log("5" + 5 + 5); // 555
 ```
 
 ---
@@ -84,6 +85,7 @@ let bookedseats = 53;
 let emptyseats = totalseats - bookedseats;
 console.log(emptyseats)
 ```
+Ans = 27
 
 2.
 
@@ -93,6 +95,7 @@ let loseMarks = 35;
 let finalMarks = totalMarks - loseMarks;
 console.log(finalMarks)
 ```
+Ans = 465
 
 3.
 
@@ -102,6 +105,7 @@ let sendBoxes = 875;
 let remainingBoxes = totalBoxes - sendBoxes;
 console.log(remainingBoxes)
 ```
+Ans = 1625
 
 4.
 
@@ -151,6 +155,7 @@ let totalNoteBook = 8;
 let toatlCost = noteBookCost * totalNoteBook
 console.log(toatlCost)
 ```
+Ans = 360
 
 2.
 
@@ -160,6 +165,7 @@ let totalHours = 6;
 let totalBottle = bottlePerHour * totalHours;
 console.log(totalBottle)
 ```
+Ans = 720
 
 3.
 
@@ -169,6 +175,7 @@ let plants = 15;
 let totalPlants = rows * plants;
 console.log(totalPlants)
 ```
+Ans = 105
 
 4.
 
@@ -178,6 +185,7 @@ let b = 4;
 let result = a * b;
 console.log(result);
 ```
+Ans = 20
 
 Ans = 20
 
