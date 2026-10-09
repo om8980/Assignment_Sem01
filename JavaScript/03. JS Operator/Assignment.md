@@ -969,3 +969,159 @@ console.log(p);
 Ans = 0.5
 
 ---
+
+# C] Comparison Operators
+
+## 1. Loose Equality `==`
+### 1. Check whether the string `"25"` is loosely equal to the number `25`.
+#### Ans :
+
+```js
+let a = "25"
+let b = 25
+console.log(a==b) // true
+```  
+
+### 2. Check if `0 == false` returns true or false.  
+#### Ans :
+```js
+console.log(0 == false) // true
+```
+### 3. Predict the output:  Nice Question!
+#### Ans :
+
+   ```js
+   console.log(10 == "10");       // true
+   console.log(null == undefined);// true   
+   ```
+
+### 4. Predict the output:
+#### Ans :
+   ```js
+   console.log("" == 0);    // true
+   console.log([] == false);// false
+   ```
+### 5. Why does `NaN == NaN` return `false`?
+#### Ans :
+
+   ```js
+   // In JS NaN is not equal to any value including itself.
+   console.log(0 / 0);        // NaN
+   console.log("hello" * 2);  // NaN
+   // That's why in JS NaN==NaN is false.
+   ```
+
+---
+
+## 2. Loose Inequality `!=`
+
+### 1. Check whether `"18" != 18` returns true or false.
+#### Ans :
+   ```js
+   console.log(18!=18) // false
+   ```
+
+### 2. A password is stored as `"1234"`. User enters `1234` (number). Will `!=` return true?  
+#### Ans :
+
+   ```js
+   let password = "1234";
+   let userPassword = 1234;
+   console.log(password==userPassword)  // true
+   ```
+
+### 3. Predict the output:
+#### Ans :
+
+   ```js
+   console.log(5 != "5");    // false 
+   console.log(0 != false);  // false
+   ```
+
+### 4. Predict the output:
+#### Ans :
+
+   ```js
+   console.log(null != undefined); // false
+   console.log("" != 0);           // false
+   ```
+
+### 5. What does `NaN != NaN` return? Explain.
+#### Ans :
+
+   ```js
+   // NaN == NaN is false, the opposite comparison NaN != NaN is true.
+   ```
+
+---
+
+## 3. Strict Equality `===`
+### 1. Check whether `"25" === 25` returns true or false. Explain why.
+#### Ans :
+
+```js
+console.log(25==='25') // false
+```
+
+### 2. Check if `0 === false` and `null === undefined`.
+#### Ans :
+
+```js
+console.log(0===false) // false
+```
+
+### 3. Predict the output:
+#### Ans :
+   ```js
+   console.log(10 === "10"); // false
+   console.log(true === 1);  // false
+   ```
+
+### 4. Predict the output:
+#### Ans :
+   ```js
+   console.log("" === 0);     // false
+   console.log([] === false); // false
+   ```
+
+### 5. Why is `===` preferred over `==` in most real-world code?
+#### Ans :
+   ```
+   Because `===` check value & datatype while == can convert values to the same type before comparing them.
+   ```
+
+---
+
+## 4. Strict Inequality `!==`
+### 1. Check whether `"18" !== 18` returns true or false.  
+#### Ans :
+```js
+console.log("18"!==18) // true
+```
+
+### 2. Check if `0 !== false` and `null !== undefined`.  
+#### Ans :
+```js
+console.log(0 !== false)        // true
+console.log(null !== undefined) // true
+```
+
+### 3. Predict the output:
+#### Ans :
+   ```js
+   console.log(5 !== "5");  // true
+   console.log(true !== 1); // true
+   ```
+
+### 4. Predict the output:
+#### Ans :
+   ```js
+   console.log("" !== 0);    // true
+   console.log(NaN !== NaN); // true
+   ```
+### 5. Write a condition that checks if a variable `input` is strictly not equal to the string `"0"`.
+#### Ans :
+
+```
+Query
+```
