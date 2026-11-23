@@ -62,3 +62,33 @@ console.log(color[0]);
 
 // # 4.
 
+// 1. Update using the index.
+marks[0] = newValue;
+
+// 2.
+marks[1] = 95;
+
+// 3. Output: [80, 95, 90]
+
+// 4. False. No special method is needed.
+
+// 5. Yes. Assigning a higher index increases array length
+//    and creates empty slots between indexes.
+
+// # 5.
+
+// 1.
+console.log(arr.length);
+
+// 2. ans => 4;
+
+// 3. ans => 0(Zero)
+
+// 4. It helps us know the size of an array and control the loops.
+
+// 5. length is a property not a function. & function required "()" but property is not required.
+//    like Ex. push() => function
+//    like Ex. length => property
+
+// # 6.
+
