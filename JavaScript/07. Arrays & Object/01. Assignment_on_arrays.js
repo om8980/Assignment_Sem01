@@ -146,3 +146,46 @@ for (const color of colors) {
 // 4. output => [200, 300, 400]
 
 // 5. Yes
+
+// # 9.
+
+// What does the indexOf() method return when the searched value is found in the array?
+// What does indexOf() return when the value is not present in the array?
+// Given const names = ["Jenil", "Mahir", "Arjun"];, what does console.log(names.indexOf("Mahir")); output?
+// For the same array, what does console.log(names.indexOf("Krishna")); output?
+// Write a line of code that finds the index of "Priyesha" in an array named students.
+
+// 1. Element in the array.
+
+// 2. -1
+
+// 3. 1
+
+// 4. -1
+
+// 5. 
+
+names = ["Jenil", "Mahir", "Arjun"];
+console.log();
+
+// # 10.
+
+// Can a JavaScript array store values of different data types (e.g., number, string, boolean, null) in the same array?
+// Write the syntax to create an array named data that contains a number, a string, a boolean, and null.
+// How can you check the data type of each element in such an array?
+// Given const data = [100, "Hello", true, null];, what does typeof data[0] return?
+// What does typeof data[2] return for the same array?
+
+// 1. Yes
+
+// 2. 
+
+let array = ["Hello", 21, true, null];
+
+// 3. typeof(array)
+
+// 4. number
+
+// 5. boolean
+
+// # 11.
