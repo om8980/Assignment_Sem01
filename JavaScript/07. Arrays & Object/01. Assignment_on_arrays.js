@@ -189,3 +189,88 @@ let array = ["Hello", 21, true, null];
 // 5. boolean
 
 // # 11.
+
+// Create a 4×2 matrix and print all elements of the second column.
+// Given this matrix of student marks, print only the marks of the third student:
+
+// const marks = [
+//     [85, 90, 78],
+//     [70, 75, 80],
+//     [88, 82, 95],
+//     [60, 65, 70]
+// ];
+
+// Write code to find and print the total number of elements present in a 3×4 matrix.
+// Create a 3×3 matrix filled with numbers 1 to 9. Then update the center element (index [1][1]) to 0 and print the matrix.
+// Access and print the element that is present at the first row and last column of any 3×3 matrix you create.
+
+// 1.
+
+let name1 = [
+    [1,2],
+    [3,4],
+    [5,6],
+    [7,8],
+];
+for (i=0; i<4; i++) {
+    console.log(name1[i][1]);
+};
+
+// 2. console.log(name[2])
+
+// 3.
+
+let matrix = [
+    [1,2,3,4],
+    [5,6,7,8],
+    [9,10,11,12],
+]
+
+let total = matrix.length * matrix[0].length;
+console.log(total);
+
+// 4.
+
+let matrice = [
+    [1,2,3],
+    [4,5,6],
+    [7,8,9],
+]
+console.log(matrice[1][1]);
+
+// 5.
+
+let matrix1 = [
+    [1,2,3],
+    [4,5,6],
+    [7,8,9],
+]
+console.log([0][2]);
+
+// # 12.
+
+const marks = [
+    [85, 90, 92], // Jenil
+    [70, 75, 80], // Arjun
+    [88, 82, 89]  // Krishna
+];
+
+for (let i = 0; i < marks.length; i++) {
+    const studentMarks = marks[i];
+    const total = studentMarks[0] + studentMarks[1] + studentMarks[2];
+    const avg = total / 3;
+    console.log("Student " + (i + 1) + " average: " + avg);
+}
+
+// In the given marks example, what does marks[i] represent inside the loop?
+// Why do we use marks.length in the outer loop instead of hard-coding the number 3?
+// What will happen if one student has only 2 subject marks instead of 3? (Think about the calculation)
+
+// 1. 
+    [85, 90, 92] 
+    [70, 75, 80] 
+    [88, 82, 89]
+
+// 2. because it automatically gives the total number of rows (students) in the array.
+
+// 3. the given answer is undefined
