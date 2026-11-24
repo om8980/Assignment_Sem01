@@ -92,3 +92,57 @@ console.log(arr.length);
 
 // # 6.
 
+
+let subject = ["Python", "JavaScript", "HTML"]
+
+for (sub of subject) {
+    console.log(sub);
+}
+
+// 7. Because it is very easy to access arrays elements. 
+//    Like no reqiured indices(i) and increment(i++)
+
+// 8.
+
+const colors = ["Red", "Blue", "Green"];
+
+for (const color of colors) {
+    console.log(color, indexOf(color)); // Reff Err => indexOf is not defined.
+}
+
+
+// # 7.
+
+// Which method is used to add an element at the end of an array?
+// Which method is used to add an element at the beginning of an array?
+// Given let nums = [1, 2, 3];, write the code to add 4 at the end using the appropriate method. What will console.log(nums); show after that?
+// Continuing from the previous question, write the code to add 0 at the beginning. What will the final array look like?
+// True or False: push() and unshift() both modify the original array (they are mutating methods).
+
+// 1. push();
+
+// 2. unshift();
+
+// 3. output => [1, 2, 3]
+
+// 4. push(0); output => [0, 1, 2, 3]
+
+// 5. True
+
+// # 8.
+
+// Which method removes the last element of an array?
+// Which method removes the first element of an array?
+// Given let nums = [100, 200, 300, 400, 500];, what does nums.pop(); do, and what will the array contain after calling it?
+// After the previous operation, what does nums.shift(); do, and what will the remaining array contain?
+// Do pop() and shift() return the removed element, or do they only modify the array?
+
+// 1. pop();
+
+// 2. shift();
+
+// 3. output => [100, 200, 300, 400]
+
+// 4. output => [200, 300, 400]
+
+// 5. Yes
