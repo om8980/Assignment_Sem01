@@ -274,3 +274,31 @@ for (let i = 0; i < marks.length; i++) {
 // 2. because it automatically gives the total number of rows (students) in the array.
 
 // 3. the given answer is undefined
+
+// # 13
+
+// 1. undefined
+
+// 2. arr[arr.length] = 10; arr.length represents the next available index.
+
+// 3. 
+let arr = [10, 20, 30];
+arr[arr.length] = 40;
+// this code is right but other method is much better than this.
+arr.push(40);
+
+// 4.
+
+let name2 = [1,2,3,4];
+name2[5] = 5;
+console.log(name2);
+// this is called sparse array.
+
+// 5.
+// False
+// undefined not give the error
+
+// 6.
+
+// Array => indices(i) 
+// Object => Named Keys
