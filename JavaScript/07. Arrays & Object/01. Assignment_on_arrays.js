@@ -302,3 +302,101 @@ console.log(name2);
 
 // Array => indices(i) 
 // Object => Named Keys
+
+// # 14.
+
+// 1.
+
+const numbers = [12, 7, 18, 25, 4, 9, 30];
+for (number of numbers) {
+    if (number%2==0) {
+        console.log(number);
+    }
+}
+
+// 2.
+
+const cities = ["Ahmedabad", "Surat", "Rajkot", "Vadodara", "Bhavnagar"];
+
+for (i=cities.length-1; i>=0; i--) {
+    console.log(cities[i]);
+}
+
+// 3. Sir Pase
+
+// 4.
+
+const colors1 = ["Red", "Blue", "Green", "Yellow"];
+
+colors.push("Purple");
+colors.unshift("Black");
+console.log(colors1);
+
+// 5.
+
+const matrix0 = [
+    [10, 20, 30],
+    [40, 50, 60]
+];
+
+// method-2 is best
+
+// method-1
+
+let total1 = 0;
+for (let i=0; i<matrix.length; i++) {
+    const row = matrix[i];
+    total1 += row[0] + row[1] + row[2];
+}
+console.log(total1);
+
+// method-2
+
+let sum=0
+for(let i=0; i<=matrix.length-1; i++){
+    for(let j=0; j<=matrix[0].length-1; j++){
+        sum += matrix[i][j]
+    }
+}
+console.log(sum);
+
+
+// 6.
+
+const marks0 = [45, 67, 89, 32, 76, 91, 54];
+
+count = 0
+for (let i=0; i<marks0.length; i++) {
+    if (marks0[i]>50) {
+        count += 1;
+    }
+}
+console.log(count);
+
+// 7.
+
+const matrix2 = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+];
+
+for (let i=0; i<matrix2.length; i++) {
+    console.log(matrix[i][i]);
+}
+
+// # 15.
+
+// 1. d) 20
+
+// 2. c) arr.unshift(5)
+
+// 3. -1
+
+// 4. c) Arrays can store mixed data types
+
+// 5. b) [1, 2, 4]
+
+// 6. d) 60
+
+// 7. b) string
